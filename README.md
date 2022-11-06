@@ -1,5 +1,5 @@
 # Url Scraper
-A python script to scrape URL's from major search engines,note: humanized/intentionally slow to prevent lockout from search engines.
+A python script to scrape URL's from major search engines, Note: humanized/intentionally slow to prevent lock-out from search engines.
 
 ![165935139-e2a81e91-73e6-4b81-92f3-cbf77f9b8a6c](https://user-images.githubusercontent.com/21116180/197334302-59ea9217-28ed-4db8-ae7d-1eca8d72c49a.png)
 
