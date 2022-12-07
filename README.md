@@ -1,4 +1,4 @@
-# Url Scraper
+# URL Scraper
 A python script to scrape URL's from major Search engines, Note: humanized/intentionally slow to prevent lock-out from Search engines.
 Search Dork is supported, Dork multiple Search engines at once.
 
