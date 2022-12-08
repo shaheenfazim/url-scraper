@@ -1,25 +1,41 @@
 # URL Scraper
-A python script to scrape URL's from major Search engines, Note: humanized/intentionally slow to prevent lock-out from Search engines.
-Search Dork is supported, Dork multiple Search engines at once.
 
-![165935139-e2a81e91-73e6-4b81-92f3-cbf77f9b8a6c](https://user-images.githubusercontent.com/21116180/197334302-59ea9217-28ed-4db8-ae7d-1eca8d72c49a.png)
+A python script to scrape URLs from major search engines. [Search dork](https://en.wikipedia.org/wiki/Google_hacking) is supported, dork multiple search engines at once.
 
-## Supported search engines:
-+ Google Search
-+ Bing Search
-+ Yahoo Search
-+ Duckduckgo
+![screenshot](https://user-images.githubusercontent.com/38415384/206352739-13188e02-e5ec-47e8-a94c-1ad61e331c66.png)
 
-## Requirements:
-- <code>Python</code>
+## Supported search engines
 
-## Usage:
-1. Download the script.
-2. Run command 
-```plain
-python3 scraper.py
-```
-3. Choose preferred engine.
-4. Enter search query.
-5. Enter number of pages to scrape.
-6. Obtain result from <code>output</code> folder.
++ Google
++ Bing
++ Yahoo
++ DuckDuckGo
+
+## Requirements
+
++ `Python 3.10`
++ `requests`
++ `beautifulsoup4`
+
+## Usage
+
+1. Clone the repository.
+2. Install the dependencies & activate virtual environemnt.
+
+    ```console
+    $ pipenv install
+    $ pipenv shell
+    ```
+
+3. Run the program.
+
+    ```console
+    $ python scraper.py
+    ```
+
+4. Follow the prompt.
+5. Obtain results from the `output/` folder.
+
+---
+
+> **Note**: Program is intentionally slowed (humanized) to prevent being locked-out from search engines.
