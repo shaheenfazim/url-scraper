@@ -2,7 +2,7 @@
 
 A python script to scrape URLs from major search engines. [Search dork](https://en.wikipedia.org/wiki/Google_hacking) is supported, dork multiple search engines at once.
 
-![Screenshot 2022-12-13 165755](https://user-images.githubusercontent.com/21116180/207309854-0a64bdc7-cbb6-4ac0-9979-6509bd390c9c.png)
+![Screenshot 2022-12-13 171627](https://user-images.githubusercontent.com/21116180/207310027-12832f47-9e25-4ad5-89c1-e530adef92a1.png)
 
 ## Supported search engines
 
